@@ -410,6 +410,3 @@ def api_force_today_choice_hebrew():
 
 import_words_from_file()
 import_hebrew_words()
-
-"""py -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload"""
-
